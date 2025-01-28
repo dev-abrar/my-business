@@ -1,0 +1,18 @@
+@media (max-width: 1191px){
+    .navbar {
+        line-height: 50px;
+    }
+
+    #banner {
+        padding: 10px 0 70px;
+    }
+
+    .banner_left h1 {
+        font-size: 30px;
+    }
+
+    .banner_left p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+}
